@@ -1,0 +1,52 @@
+
+
+.contact{
+			/* background-color:#fff */;
+			padding-bottom:40px;
+			background-color: rgb(240,240,240);
+	}
+	.contact .container{
+		text-align:center;
+		background-color: rgb(240,240,240);
+	}
+	.contact h2{
+		margin-top:0;
+		background-color: rgb(240,240,240);
+	}
+	.contact a{
+		/* background-color:#fff; */
+		color:#333;
+		display:inline-block;
+		margin:5px;
+		padding:20px;
+		text-decoration:none;
+		transition: all .3s ease-in-out;
+		vertical-align:top;
+		width:50px;
+		background-color: rgb(240,240,240);
+	}
+	
+	.contact .ln a:hover{
+		transform:scale(1.1);
+		color:#00ffff;
+		background-color: rgb(240,240,240);
+	}
+	.contact .fb a:hover{
+		transform:scale(1.1);
+		color:#0000ff;
+		float:right;
+		background-color: rgb(240,240,240);
+	}
+	.contact .mail a:hover{
+		transform:scale(1.1);
+		color:#ff0000;
+		float:right;
+		background-color: rgb(240,240,240);
+	} 
+	
+	.contact a:hover{
+		transform:scale(1.1);
+		color:#0000ff;
+		background-color: rgb(240,240,240);
+	}
+	

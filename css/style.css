@@ -1,0 +1,52 @@
+.Articles
+{
+    margin: 1px;
+    border: 1px ;
+    padding: 10px;
+    min-height: 40px;
+}
+
+.Articles1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 14px;
+}
+
+
+article  {
+    margin: 5px;
+    border: 1px black solid;
+    padding: 10px;
+    min-height: 60px;
+}
+
+h4 {
+    font-family: "serif" ;
+    font-weight: bold
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 4px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 1px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button5 {
+    background-color: black;
+    color: white;
+    border: 1px solid #555555;
+}
+
+.button5:hover {
+    background-color: white;
+    color: black;
+}
+
